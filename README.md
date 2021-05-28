@@ -9,6 +9,8 @@ Authors:
 
 Contribution:
 
-- **Vladislav Alekseev** - Simple Kriging, Multivariate Co-kriging
-- **Margarita Sharkova** - Multivariate Co-kriging, Inverse Distance intepolation 
-- **Maria Subbotina** - Results interpretation, presentation preparation 
+- **Vladislav Alekseev** - Multivariate Co-kriging,  results interpretation, presentation preparation 
+
+- **Margarita Sharkova** - Kriging and Kriging with manual chosen variogram, presentation preparation 
+
+- **Maria Subbotina** - Inverse Distance intepolation,  results interpretation, presentation preparation 
